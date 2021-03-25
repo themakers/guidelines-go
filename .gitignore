@@ -1,0 +1,7 @@
+.idea
+*.iml
+
+*.test
+coverage.txt
+coverage.out
+coverage.html
