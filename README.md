@@ -129,6 +129,8 @@ func (cs *CarService) BlowUp(ctx context.Context, req BlowUpReq) (BlowUpResp, er
 
 [github.com/uber-go/zap](https://github.com/uber-go/zap)
 
+`// what about zerolog?`
+
 ### Tracing. OpenTracing-compatible framework should be used.
 `// TODO`
 
