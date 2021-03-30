@@ -120,6 +120,10 @@ i.e.: DAO should not be used as a DTO
 
 `// TODO: explain`
 
+## Data Access Layer
+
+If method changes data in a database, it should return changed data, obtained from the database AFTER commiting changes
+in order to providing abjective information from database.
 
 ## Automated Tests
 
@@ -150,6 +154,7 @@ You don't need comments you have exhaustive naming and clean architecture. (IRL 
 
 ## Glossary
 
+* POC - ?
 * DDL -
 * BDD -
 * DAL - Data Access Layer
