@@ -147,6 +147,10 @@ Code comments should be applied only when necessary. **Redundant == wrong**.
 
 You don't need comments you have exhaustive naming and clean architecture. (IRL it is rather not 100% achievable)
 
+## QA
+
+### We should constantly monitor error reporting / restributed tracing system for errors
+Error log should be empty
 
 ## Glossary
 
